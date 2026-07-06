@@ -12,6 +12,6 @@ NextJS, TailwindCSS, BrightData, Cheerio, Cron-Jobs
 
 ## Authors
 
-- [@hanzalahwaheed](https://www.github.com/hanzalahwaheed)
+Mohammed Faisal Asim
 
 
